@@ -1,7 +1,8 @@
 /* var text-decoration */
 @font-face {
   font-family: myfont;
-  src: url(../fonts/Amita/Amita-Regular.ttf);
+  src: url(../fonts/Arya/Arya-Regular.ttf);
+  /*src: url(../fonts/Amita/Amita-Regular.ttf);*/
   /*src: url(../fonts/ufonts.com_tw-cen-mt.ttf);*/
 }
 /*--
